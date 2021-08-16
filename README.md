@@ -1,7 +1,7 @@
 # Data-Analysis
 ---
 - Kaggle (20-1 휴학中)
-  - 
+  - [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
 
 ---
 - 20-2 데이터개론 프로젝트 과제
